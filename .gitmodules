@@ -1,0 +1,9 @@
+[submodule "smartfarm-api"]
+	path = smartfarm-api
+	url = https://github.com/mirfanjazuli/smartfarm-api.git
+[submodule "smartfarm-app"]
+	path = smartfarm-app
+	url = https://github.com/wijdankhll/SmartFarm.git
+[submodule "smartfarm-machine-learning"]
+	path = smartfarm-machine-learning
+	url = https://github.com/Strontium1/CapstoneRPD.git
